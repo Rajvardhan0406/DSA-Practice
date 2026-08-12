@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
@@ -25,6 +26,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -42,4 +44,16 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0155-min-stack) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
