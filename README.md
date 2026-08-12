@@ -34,4 +34,12 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
