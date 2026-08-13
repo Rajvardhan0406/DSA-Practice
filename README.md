@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0238-product-of-array-except-self) |
@@ -55,5 +56,10 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0200-number-of-islands) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
