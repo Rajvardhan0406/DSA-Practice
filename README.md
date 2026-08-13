@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0217-contains-duplicate) |
@@ -56,10 +57,15 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
