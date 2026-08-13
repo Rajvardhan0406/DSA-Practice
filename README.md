@@ -9,6 +9,7 @@
 | [0200-number-of-islands](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,4 +69,24 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0048-rotate-image) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
