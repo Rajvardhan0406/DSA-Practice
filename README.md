@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+| [0739-daily-temperatures](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -104,4 +106,8 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0049-group-anagrams) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
