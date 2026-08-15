@@ -14,6 +14,7 @@
 | [0217-contains-duplicate](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
@@ -21,11 +22,13 @@
 | [0049-group-anagrams](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -91,6 +94,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -115,8 +119,21 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0053-maximum-subarray) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
