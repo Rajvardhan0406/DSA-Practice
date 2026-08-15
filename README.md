@@ -36,15 +36,18 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
@@ -136,4 +139,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
