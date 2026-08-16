@@ -18,6 +18,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0739-daily-temperatures](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 ## String
 |  |
 | ------- |
