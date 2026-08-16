@@ -16,6 +16,7 @@
 | [0238-product-of-array-except-self](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0739-daily-temperatures](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0155-min-stack) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -86,6 +89,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0048-rotate-image) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 ## Queue
 |  |
 | ------- |
@@ -145,4 +149,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
