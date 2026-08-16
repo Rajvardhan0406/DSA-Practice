@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0152-maximum-product-subarray](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0238-product-of-array-except-self) |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Rajvardhan0406/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 ## Bucket Sort
 |  |
 | ------- |
